@@ -1,0 +1,15 @@
+F:\2023 Разработчик\04_2023_FinalTask\Task\bin\Debug\net7.0\Task.exe
+F:\2023 Разработчик\04_2023_FinalTask\Task\bin\Debug\net7.0\Task.deps.json
+F:\2023 Разработчик\04_2023_FinalTask\Task\bin\Debug\net7.0\Task.runtimeconfig.json
+F:\2023 Разработчик\04_2023_FinalTask\Task\bin\Debug\net7.0\Task.dll
+F:\2023 Разработчик\04_2023_FinalTask\Task\bin\Debug\net7.0\Task.pdb
+F:\2023 Разработчик\04_2023_FinalTask\Task\obj\Debug\net7.0\Task.csproj.AssemblyReference.cache
+F:\2023 Разработчик\04_2023_FinalTask\Task\obj\Debug\net7.0\Task.GeneratedMSBuildEditorConfig.editorconfig
+F:\2023 Разработчик\04_2023_FinalTask\Task\obj\Debug\net7.0\Task.AssemblyInfoInputs.cache
+F:\2023 Разработчик\04_2023_FinalTask\Task\obj\Debug\net7.0\Task.AssemblyInfo.cs
+F:\2023 Разработчик\04_2023_FinalTask\Task\obj\Debug\net7.0\Task.csproj.CoreCompileInputs.cache
+F:\2023 Разработчик\04_2023_FinalTask\Task\obj\Debug\net7.0\Task.dll
+F:\2023 Разработчик\04_2023_FinalTask\Task\obj\Debug\net7.0\refint\Task.dll
+F:\2023 Разработчик\04_2023_FinalTask\Task\obj\Debug\net7.0\Task.pdb
+F:\2023 Разработчик\04_2023_FinalTask\Task\obj\Debug\net7.0\Task.genruntimeconfig.cache
+F:\2023 Разработчик\04_2023_FinalTask\Task\obj\Debug\net7.0\ref\Task.dll
